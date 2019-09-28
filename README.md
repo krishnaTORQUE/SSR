@@ -28,7 +28,7 @@ Download / Clone
 
 #### _Note_
 
-This project is only for **Linux**
+This project is only for **Linux**.
 
 
 # _License_
