@@ -1,0 +1,1 @@
+(window.webpackJsonpSSR=window.webpackJsonpSSR||[]).push([[7],{42:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),c=n(36);t.default=function(){return l.a.createElement(a.Fragment,null,l.a.createElement(c.Helmet,null,l.a.createElement("title",null,"Post")),l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Post Page")))}}}]);
