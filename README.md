@@ -7,7 +7,7 @@ Express, React, Redux, Helmet, Client & Server Side Development & Rendering Boil
 
 #### _Quick Start_
 
-```
+```bash
 # Install
 Download / Clone
 > npm run install
