@@ -1,8 +1,12 @@
-# SSR
+# SSR BoilderPlate
 
 #### _Description_
 
-Express, React, Redux, Helmet, Client & Server Side Development & Rendering BoilderPlate.
+Express, React, Redux, Helmet, Axios, Bable & many other dependencies are added.
+
+Write Server Side code in ES5 & later.
+
+Client & Server Side Development & Rendering BoilderPlate.
 
 
 #### _Quick Start_
