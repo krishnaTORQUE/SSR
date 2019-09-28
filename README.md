@@ -1,6 +1,6 @@
 # SSR BoilderPlate
 
-#### _Description_
+> #### _Description_
 
 Express, React, Redux, Helmet, Axios, Bable & many other dependencies are added.
 
@@ -9,7 +9,7 @@ Write Server Side code in ES5 & later.
 Client & Server Side Development & Rendering BoilderPlate.
 
 
-#### _Quick Start_
+> #### _Quick Start_
 
 ```bash
 # Install
@@ -30,11 +30,9 @@ Download / Clone
 ```
 
 
-#### _Note_
+> #### _Note_
 
 This project is only for **Linux**.
 
 
-# _License_
-
-MIT
+> # _License_ under _MIT_
