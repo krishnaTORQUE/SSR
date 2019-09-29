@@ -14,7 +14,7 @@ Client & Server Side Development & Rendering BoilderPlate.
 ```bash
 # Install
 Download / Clone
-> npm run install
+> npm run doinstall
 
 # Run Development Server
 > npm run dev
